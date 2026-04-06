@@ -1,0 +1,13 @@
+Project: Finance Backend
+
+Steps to run:
+1. Import project into Eclipse or STS
+2. Run FinanceinternApplication.java
+3. Open browser:
+   http://localhost:8082/records
+
+APIs:
+GET /records
+POST /records
+PUT /records/{id}
+DELETE /records/{id}
